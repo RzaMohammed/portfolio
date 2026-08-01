@@ -10,7 +10,8 @@ import { ProjectModal } from "@/components/modals/project-modal";
 import type { ProjectItem } from "@/types/project";
 
 export default function Projects() {
-    const { content, dict } = useLanguage();
+    const { content, dict, language } = useLanguage();
+    const isRTL = language === "ur";
 
     const isDesktop = useMediaQuery(BREAKPOINTS.xl);
 
@@ -65,7 +66,11 @@ export default function Projects() {
         offset: ["start start", "end end"],
     });
 
-    const x = useTransform(scrollYProgress, [0, 1], [0, -measurements.scrollRange]);
+    const x = useTransform(
+        scrollYProgress,
+        [0, 1],
+        [0, isRTL ? measurements.scrollRange : -measurements.scrollRange]
+    );
     const smoothX = useSpring(x, { stiffness: 400, damping: 60, restDelta: 0.5 });
 
     const handleOpenProject = (project: ProjectItem) => {
