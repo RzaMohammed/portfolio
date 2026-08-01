@@ -15,6 +15,7 @@ const syne = Syne({ subsets: ["latin"], variable: "--font-syne" });
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://portfolio-gray-theta-33.vercel.app"),
   title: "Rza Mohammed | Web Developer Portfolio",
   description: "Portfolio of Rza Mohammed - Web Developer & BCA Software Engineering Student at Amity University, Gwalior",
   icons: {

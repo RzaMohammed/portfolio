@@ -24,6 +24,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
   <p>
+    <a href="https://portfolio-gray-theta-33.vercel.app/en" target="_blank">🌐 Canlı Demo</a> •
     <a href="#features">Özellikler</a> •
     <a href="#tech">Teknolojiler</a> •
     <a href="#installation">Kurulum</a> •
@@ -36,7 +37,7 @@
 
 ## 📋 Hakkında
 
-**Kintarowwards**, üst düzey Awwwards ödüllü web sitelerinden ilham alan, açık kaynaklı ve son derece etkileşimli bir kişisel portföy şablonudur. Premium bir kullanıcı deneyimi sunmak için tasarlanmış pürüzsüz kaydırma, fizik tabanlı mikro etkileşimler, dinamik tema değiştirme ve tam çok dilli bir sisteme sahiptir. Her ayrıntı, yüksek performans ve temiz kod standartlarını korurken kalıcı bir izlenim bırakmak için işlenmiştir.
+**Rza Portfolio**, üst düzey Awwwards ödüllü web sitelerinden ilham alan, açık kaynaklı ve son derece etkileşimli bir kişisel portföy şablonudur. Premium bir kullanıcı deneyimi sunmak için tasarlanmış pürüzsüz kaydırma, fizik tabanlı mikro etkileşimler, dinamik tema değiştirme ve tam çok dilli bir sisteme sahiptir. Her ayrıntı, yüksek performans ve temiz kod standartlarını korurken kalıcı bir izlenim bırakmak için işlenmiştir.
 
 ## <a id="features"></a> ✨ Özellikler
 
@@ -64,8 +65,8 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 1. **Depoyu kopyalayın:**
 
    ```bash
-   git clone https://github.com/xkintaro/kintarowwwards.git
-   cd kintarowwwards
+   git clone https://github.com/RzaMohammed/portfolio.git
+   cd portfolio
    ```
 
 2. **Bağımlılıkları yükleyin:**

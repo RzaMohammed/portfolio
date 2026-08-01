@@ -24,6 +24,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
   <p>
+    <a href="https://portfolio-gray-theta-33.vercel.app/en" target="_blank">🌐 Live Demo</a> •
     <a href="#features">Features</a> •
     <a href="#tech">Technologies</a> •
     <a href="#installation">Installation</a> •
@@ -35,6 +36,8 @@
 </div>
 
 # Rza Portfolio
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-brightgreen?style=for-the-badge&logo=vercel)](https://portfolio-gray-theta-33.vercel.app/en)
 
 A modern, highly interactive personal portfolio website for **Rza Mohammed** (Web Developer & BCA Software Engineering Student).
 
