@@ -1,0 +1,87 @@
+{
+    "contact": {
+        "location": "Gwalior, Madhya Pradesh, India",
+        "email": "rzamohammed404@gmail.com",
+        "phone": "+91 7566136722"
+    },
+    "social": [
+        {
+            "label": "GitHub",
+            "href": "https://github.com/RzaMohammed"
+        },
+        {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/in/rza-mohammed-072859332/"
+        },
+        {
+            "label": "Email",
+            "href": "mailto:rzamohammed404@gmail.com"
+        }
+    ],
+    "stack": {
+        "frontend": [
+            {
+                "name": "Web Development",
+                "icon": "/stack/html5.svg",
+                "featured": true
+            },
+            {
+                "name": "HTML5",
+                "icon": "/stack/html5.svg",
+                "featured": true
+            },
+            {
+                "name": "CSS3",
+                "icon": "/stack/css3.svg",
+                "featured": true
+            },
+            {
+                "name": "JavaScript",
+                "icon": "/stack/javascript.svg"
+            },
+            {
+                "name": "React",
+                "icon": "/stack/react.svg"
+            }
+        ],
+        "backend": [
+            {
+                "name": "C Programming Language",
+                "icon": "/stack/csharp.svg",
+                "featured": true
+            },
+            {
+                "name": "Data Structures and Algorithms",
+                "icon": "/stack/python.svg",
+                "featured": true
+            }
+        ],
+        "database": [
+            {
+                "name": "Database Management Systems (DBMS)",
+                "icon": "/stack/postgresql.svg",
+                "featured": true
+            },
+            {
+                "name": "MySQL",
+                "icon": "/stack/mysql.svg"
+            }
+        ],
+        "tools": [
+            {
+                "name": "Ceramic Design",
+                "icon": "/stack/framermotion.svg",
+                "featured": true
+            },
+            {
+                "name": "Business Ethics",
+                "icon": "/stack/git.svg"
+            },
+            {
+                "name": "Git",
+                "icon": "/stack/git.svg"
+            }
+        ]
+    }
+}
+

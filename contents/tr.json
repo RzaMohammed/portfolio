@@ -1,0 +1,115 @@
+{
+    "about": {
+        "intro": "Ben **Amity Üniversitesi, Gwalior** merkezli bir *Yazılım Mühendisliği Öğrencisi* ve *Web Geliştiricisiyim*.",
+        "description": "Amity Üniversitesi'nde Bilgisayar Uygulamaları Lisans (BCA) eğitimi alıyorum. **Verimli, ölçeklenebilir ve kullanıcı dostu** uygulamalar geliştirmeye odaklanıyorum.",
+        "full": "Merhaba, ben **Rza Mohammed**. Amity Üniversitesi Gwalior'da Bilgisayar Uygulamaları Lisansı (BCA) eğitimi alıyorum ve yazılım geliştirme ile teknoloji araştırmalarına büyük bir ilgi duyuyorum. Hedefim, verimli, ölçeklenebilir ve kullanıcı dostu uygulamalar inşa eden uzman bir Yazılım Mühendisi olmaktır.\n\nAkademik eğitimin ötesinde gerçek dünya sorun çözme yaklaşımımı geliştirmek için hackathonlara, iş yarışmalarına ve teknik etkinliklere aktif olarak katılıyorum. Sürecimde SISTec yarışmasında 1.'lik elde ettim ve IIITM'de takımımla yenilikçi çözümler sunarak 2. Yedek (3.'lük) derecesini kazandım. Bu deneyimler kodlama becerilerimi, takım çalışmamı, liderliğimi ve sunum yeteneklerimi güçlendirdi.\n\nSürekli yeni teknolojiler öğreniyor, projeler üretiyor ve kariyer yolum olarak yazılım geliştirmeyi keşfediyorum. Katkı sağlayabileceğim ve teknoloji profesyoneli olarak gelişebileceğim büyüme odaklı bir ortama katılmayı hedefliyorum."
+    },
+    "manifesto": [
+        "ÖLÇEKLENEBİLİR YAZILIM MİMARİSİ",
+        "GERÇEK DÜNYA PRATİK ÇÖZÜMLERİ",
+        "SÜREKLİ TEKNOLOJİ ÖĞRENİMİ",
+        "TAKIM ÇALIŞMASI VE LİDERLİK",
+        "KULLANICI ODAKLI GELİŞTİRME",
+        "ETİK VE SÜRDÜRÜLEBİLİR İNOVASYON"
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Brand Combat Solution",
+            "category": "Yarışma Projesi (1. Lik)",
+            "year": "2025",
+            "description": "SISTec Business School - Sagar Exuberance 4.0 Brand Combat yarışmasında ekibimle 1. lik elde ettik. Pazar stratejisi, yazılım uygulaması ve sunumu içeren yenilikçi bir iş teknolojisi çözümü geliştirip sunduk.",
+            "image": "/projects/20260427093247885.jpg",
+            "stack": [
+                "Web Development",
+                "Market Analysis",
+                "Business Strategy",
+                "Presentation"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "IIITM Hackathon & Innovation Pitch",
+            "category": "Hackathon (2. Runner-Up)",
+            "year": "2025",
+            "description": "IIITM Gwalior'da 2. Runner-Up derecesi kazandık. Yoğun hackathon ortamında karmaşık kullanıcı sorunlarına çözüm sunan yenilikçi bir teknoloji ürünü geliştirdik ve sunduk.",
+            "image": "/projects/20260427093247620.jpg",
+            "stack": [
+                "Software Engineering",
+                "Data Structures",
+                "Problem Solving",
+                "Team Leadership"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Arjuna 2.0 – Tech Summit Platform",
+            "category": "Teknoloji Zirvesi Sertifikası",
+            "year": "2025",
+            "description": "National Institute of Technology (NIT) Agartala'dan Arjuna 2.0 – Northeast Tech Summit 2025 sertifikasını tamamladım. Büyük ölçekli teknoloji girişimlerinde etkinlik koordinasyonu ve proje yönetimi becerilerimi sergiledim.",
+            "image": "/projects/20260305210513749.jpg",
+            "stack": [
+                "Tech Management",
+                "Event Coordination",
+                "Web Technologies",
+                "Computer Science"
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Amity Coding Club Initiatives",
+            "category": "Topluluk & Proje Merkezi",
+            "year": "2025",
+            "description": "Amity Kodlama Kulübü Teknik Takım Üyesi. Kodlama etkinlikleri, atölyeler, işbirlikçi zorluklar ve kampüs projesi geliştirmelerine katkıda bulundum.",
+            "image": "/projects/20260427093247885.jpg",
+            "stack": [
+                "C",
+                "DSA",
+                "DBMS",
+                "Web Development"
+            ]
+        }
+    ],
+    "roadmap": [
+        {
+            "id": "01",
+            "year": "2024",
+            "description": "Amity Üniversitesi (AU) Gwalior'da Bilgisayar Uygulamaları Lisans (BCA) programına başladım. C Programlama, Veri Yapıları ve Veritabanı Sistemlerinde güçlü temeller attım.",
+            "stack": [
+                "C Language",
+                "BCA Foundations",
+                "DBMS"
+            ]
+        },
+        {
+            "id": "02",
+            "year": "2025",
+            "description": "Amity Üniversitesi'nde Web Geliştirici ve Kodlama Kulübü Teknik Üyesi oldum. SISTec Brand Combat 1.'liği, IIITM 2. Runner-Up derecesi ve NIT Agartala Arjuna 2.0 sertifikasını kazandım.",
+            "stack": [
+                "Web Development",
+                "Hackathons",
+                "NIT Agartala Summit",
+                "SISTec Winner"
+            ]
+        },
+        {
+            "id": "03",
+            "year": "2025 - Present",
+            "description": "Web projeleri geliştiriyor, yazılım mühendisliği uzmanlığımı ilerletiyor ve teknik yarışmalara katılarak gerçek dünya problem çözme becerilerimi artırıyorum.",
+            "stack": [
+                "React / Next.js",
+                "DSA",
+                "Software Engineering"
+            ]
+        },
+        {
+            "id": "04",
+            "year": "2027",
+            "description": "Amity Üniversitesi Gwalior BCA mezuniyeti ve büyüme odaklı Yazılım Mühendisi rollerine katılım hedefi.",
+            "stack": [
+                "BCA Graduation",
+                "Software Engineer"
+            ]
+        }
+    ]
+}

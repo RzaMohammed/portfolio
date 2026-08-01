@@ -1,0 +1,44 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "stack": "Stack",
+        "projects": "Projects",
+        "roadmap": "Roadmap",
+        "contact": "Contact"
+    },
+    "title": {
+        "about": "About",
+        "stack": "Stack",
+        "projects": "Projects",
+        "roadmap": "Roadmap",
+        "contact": "Contact"
+    },
+    "scrollDown": "Scroll",
+    "contactMe": "Contact Me",
+    "exploreProjects": "Explore Projects",
+    "readFullVersion": "Read Full Version",
+    "frontendStack": "Frontend Technologies",
+    "backendStack": "Backend Technologies",
+    "databaseStack": "Databases & ORMs",
+    "toolsStack": "Tools & Infrastructure",
+    "projectsIntro": "A collection of *experiments*, *products*, and *digital artifacts* forged in the **void**.",
+    "projectsScrollText": "Scroll to explore",
+    "projectsEndText": "End",
+    "roadmapDescription": "A roadmap where I share the experiences I've gained throughout my software journey and the technologies I've learned.",
+    "contactIntroText": "Whether we start fresh to bring a project to life or take an existing system further.",
+    "sendEmail": "Send an Email",
+    "directLine": "Direct Line",
+    "allRightsReserved": "All rights reserved.",
+    "contactModalDescription": "Send me a message and I'll get back to you as soon as possible.",
+    "projectDetails": "Details about",
+    "aboutProject": "About the Project",
+    "technologies": "Technologies",
+    "liveDemo": "Live Demo",
+    "sourceCode": "Source Code",
+    "notFound": {
+        "title": "Page Not Found",
+        "description": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+        "goHome": "Back to Home"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "nav": {
+        "home": "ہوم",
+        "about": "تعارف",
+        "stack": "مہارتیں",
+        "projects": "پروجیکٹس",
+        "roadmap": "سفر نامہ",
+        "contact": "رابطہ"
+    },
+    "title": {
+        "about": "تعارف",
+        "stack": "ٹیکنالوجی اسٹیک",
+        "projects": "پروجیکٹس",
+        "roadmap": "تعلیمی و عملی سفر",
+        "contact": "رابطہ کریں"
+    },
+    "scrollDown": "اسکرول کریں",
+    "contactMe": "رابطہ کریں",
+    "exploreProjects": "پروجیکٹس دیکھیں",
+    "readFullVersion": "مکمل تعارف پڑھیں",
+    "frontendStack": "فرنٹ اینڈ ٹیکنالوجیز",
+    "backendStack": "بیک اینڈ ٹیکنالوجیز",
+    "databaseStack": "ڈیٹا بیس سسٹمز",
+    "toolsStack": "ٹولز اور بنیادی ڈھانچہ",
+    "projectsIntro": "تخلیقی *تجربات*، *پروجیکٹس*، اور **ڈیجیٹل سسٹمز** کا ایک جامع مجموعہ۔",
+    "projectsScrollText": "مزید دیکھنے کے لیے اسکرول کریں",
+    "projectsEndText": "اختتام",
+    "roadmapDescription": "سافٹ ویئر کی دنیا میں حاصل کردہ تجربات اور سیکھی گئی ٹیکنالوجیز کا ایک بہترین روڈ میپ۔",
+    "contactIntroText": "خواہ نیا پروجیکٹ شروع کرنا ہو یا موجودہ سسٹم کو بہتر بنانا ہو۔",
+    "sendEmail": "ای میل بھیجیں",
+    "directLine": "براہ راست رابطہ",
+    "allRightsReserved": "جملہ حقوق محفوظ ہیں۔",
+    "contactModalDescription": "مجھے پیغام بھیجیں اور میں جلد از جلد آپ سے رابطہ کروں گا۔",
+    "projectDetails": "تفصیلات",
+    "aboutProject": "پروجیکٹ کے بارے میں",
+    "technologies": "ٹیکنالوجیز",
+    "liveDemo": "لائیو ڈیمو",
+    "sourceCode": "سورس کوڈ",
+    "notFound": {
+        "title": "صفحہ نہیں ملا",
+        "description": "جس صفحے کی آپ تلاش کر رہے ہیں وہ ختم کر دیا گیا ہے یا عارضی طور پر دستیاب نہیں ہے۔",
+        "goHome": "ہوم صفحہ پر واپس جائیں"
+    }
+}

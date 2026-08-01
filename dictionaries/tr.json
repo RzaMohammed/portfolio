@@ -1,0 +1,44 @@
+{
+    "nav": {
+        "home": "Ana Sayfa",
+        "about": "Hakkımda",
+        "stack": "Teknolojiler",
+        "projects": "Projeler",
+        "roadmap": "Yol Haritası",
+        "contact": "İletişim"
+    },
+    "title": {
+        "about": "Hakkımda",
+        "stack": "Teknolojiler",
+        "projects": "Projeler",
+        "roadmap": "Yol Haritası",
+        "contact": "İletişim"
+    },
+    "scrollDown": "Kaydır",
+    "contactMe": "İletişim",
+    "exploreProjects": "Projelerim",
+    "readFullVersion": "Tamamını Oku",
+    "frontendStack": "Frontend",
+    "backendStack": "Backend",
+    "databaseStack": "Databases & ORMs",
+    "toolsStack": "Tools & Infrastructure",
+    "projectsIntro": "*deneyler*, *ürünler* ve *dijital eserlerden* oluşan, **boşlukta** şekillendirilmiş bir koleksiyon.",
+    "projectsScrollText": "Keşfetmek için kaydır",
+    "projectsEndText": "Son",
+    "roadmapDescription": "Yazılım yolculuğum boyunca edindiğim tecrübeleri ve öğrendiğim teknolojileri paylaştığım bir yol haritası.",
+    "contactIntroText": "İster bir projeyi hayata geçirmek için yeni bir başlangıç yapalım, ister mevcut bir sistemi daha ileri taşıyalım.",
+    "sendEmail": "E-posta Gönder",
+    "directLine": "Telefon Numarası",
+    "allRightsReserved": "Tüm hakları saklıdır.",
+    "contactModalDescription": "Bana bir mesaj gönderin, en kısa sürede size geri dönüş yapayım.",
+    "projectDetails": "Proje Detayları",
+    "aboutProject": "Proje Hakkında",
+    "technologies": "Teknolojiler",
+    "liveDemo": "Canlı Demo",
+    "sourceCode": "Kaynak Kodları",
+    "notFound": {
+        "title": "Sayfa Bulunamadı",
+        "description": "Aradığınız sayfa kaldırılmış, adı değiştirilmiş veya geçici olarak kullanım dışı kalmış olabilir.",
+        "goHome": "Ana Sayfaya Dön"
+    }
+}
