@@ -102,12 +102,7 @@ const AchievementCard = React.memo(function AchievementCard({
                                     {item.category}
                                 </span>
                             </div>
-                            <div className="flex items-center gap-2 overflow-hidden">
-                                {item.linkedinUrl && (
-                                    <span className="inline-flex items-center justify-center p-1.5 rounded-full bg-background/80 backdrop-blur-md border border-border/40 text-foreground/80 group-hover:text-primary transition-colors">
-                                        <Linkedin className="w-3.5 h-3.5" />
-                                    </span>
-                                )}
+                            <div className="overflow-hidden">
                                 <span className="block text-xs xl:text-sm font-mono text-muted-foreground transform translate-y-full group-hover:translate-y-0 transition-transform duration-500 delay-200">
                                     {item.year}
                                 </span>
