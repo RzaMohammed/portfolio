@@ -13,7 +13,7 @@ import {
     DialogDescription,
 } from "@/components/ui/dialog";
 import { useLenisModal } from "@/hooks/use-lenis-modal";
-import { Linkedin, ExternalLink } from "lucide-react";
+
 
 export default function Achievements() {
     const { content, dict } = useLanguage();
@@ -178,43 +178,6 @@ function AchievementModal({
                                 {achievement.description}
                             </p>
                         </div>
-
-                        {achievement.linkedinUrl && (
-                            <div className="flex flex-wrap gap-4 pt-2">
-                                <a
-                                    href={achievement.linkedinUrl}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="inline-flex items-center gap-2.5 px-6 py-3 rounded-full bg-primary text-primary-foreground font-mono text-xs uppercase tracking-wider hover:bg-primary/90 transition-colors shadow-sm"
-                                >
-                                    <Linkedin className="w-4 h-4" />
-                                    <span>{dict.openOnLinkedin || "View on LinkedIn"}</span>
-                                    <ExternalLink className="w-3.5 h-3.5 opacity-70" />
-                                </a>
-                            </div>
-                        )}
-
-                        {achievement.linkedinEmbed && (
-                            <div className="flex flex-col gap-4 pt-6 border-t border-border/40">
-                                <div className="flex items-center justify-between">
-                                    <h3 className="text-sm tracking-widest text-muted-foreground uppercase font-mono flex items-center gap-2">
-                                        <Linkedin className="w-4 h-4 text-[#0A66C2]" />
-                                        <span>{dict.viewOnLinkedin || "LinkedIn Post"}</span>
-                                    </h3>
-                                </div>
-                                <div className="w-full flex justify-center overflow-hidden rounded-2xl border border-border/50 bg-muted/20 p-2 sm:p-4">
-                                    <iframe
-                                        src={achievement.linkedinEmbed}
-                                        height="627"
-                                        width="504"
-                                        frameBorder="0"
-                                        allowFullScreen
-                                        title={`Embedded post - ${achievement.title}`}
-                                        className="w-full max-w-[504px] min-h-[500px] sm:min-h-[627px] rounded-xl shadow-md border border-border/30 bg-background"
-                                    />
-                                </div>
-                            </div>
-                        )}
                     </div>
                 </div>
 
