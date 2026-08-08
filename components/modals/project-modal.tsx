@@ -46,11 +46,12 @@ export function ProjectModal({ open, onOpenChange, project }: ProjectModalProps)
                                 src={project.image}
                                 alt={project.title}
                                 fill
-                                className="object-cover rounded-lg"
+                                unoptimized
+                                className="object-cover rounded-t-lg"
                                 priority
                             />
                         )}
-                        <div className="absolute inset-0 bg-linear-to-t from-background to-transparent" />
+                        <div className="absolute inset-0 bg-gradient-to-t from-background via-background/50 to-transparent pointer-events-none" />
 
                         <div className="absolute bottom-6 left-6 right-6 sm:bottom-10 sm:left-10 sm:right-10 flex flex-col sm:flex-row sm:items-end justify-between gap-4">
                             <div>

@@ -5,18 +5,21 @@
         "stack": "Stack",
         "projects": "Projects",
         "roadmap": "Roadmap",
-        "contact": "Contact"
+        "contact": "Contact",
+        "achievements": "Achievements"
     },
     "title": {
         "about": "About",
         "stack": "Stack",
         "projects": "Projects",
         "roadmap": "Roadmap",
-        "contact": "Contact"
+        "contact": "Contact",
+        "achievements": "Achievements"
     },
     "scrollDown": "Scroll",
     "contactMe": "Contact Me",
     "exploreProjects": "Explore Projects",
+    "downloadResume": "Download Resume",
     "readFullVersion": "Read Full Version",
     "frontendStack": "Frontend Technologies",
     "backendStack": "Backend Technologies",
@@ -36,6 +39,8 @@
     "technologies": "Technologies",
     "liveDemo": "Live Demo",
     "sourceCode": "Source Code",
+    "viewOnLinkedin": "LinkedIn Post",
+    "openOnLinkedin": "View on LinkedIn",
     "notFound": {
         "title": "Page Not Found",
         "description": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",

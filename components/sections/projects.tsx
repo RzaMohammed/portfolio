@@ -100,7 +100,7 @@ export default function Projects() {
                         <div className="flex flex-col gap-4 px-container mb-10">
                             <BlurReveal>
                                 <span className="title-counter">
-                                    [003]
+                                    [004]
                                 </span>
                             </BlurReveal>
 
@@ -138,7 +138,7 @@ export default function Projects() {
 
                                 <BlurReveal>
                                     <span className="title-counter">
-                                        [003]
+                                        [004]
                                     </span>
                                 </BlurReveal>
 
@@ -206,11 +206,12 @@ const ProjectCard = React.memo(function ProjectCard({ project, onClick }: { proj
                             src={project.image}
                             alt={project.title}
                             fill
+                            unoptimized
                             sizes="(max-width: 1280px) 100vw, 45vw"
                             loading="lazy"
                             className="object-cover opacity-60 group-hover:opacity-100 group-hover:scale-105 transition-all duration-1000 grayscale group-hover:grayscale-0"
                         />
-                        <div className="absolute inset-0 bg-linear-to-t from-background via-background/40 to-transparent" />
+                        <div className="absolute inset-0 bg-gradient-to-t from-background via-background/40 to-transparent pointer-events-none" />
                     </div>
 
                     <div className="absolute inset-0 z-10 flex flex-col justify-between p-6 xl:p-12">

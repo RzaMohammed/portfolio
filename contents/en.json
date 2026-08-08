@@ -2,7 +2,7 @@
     "about": {
         "intro": "I'm a *Software Engineering Student* & *Web Developer* based at **Amity University, Gwalior**.",
         "description": "Pursuing a Bachelor of Computer Applications (BCA) with a strong interest in software development and technology research. Driven to build **efficient, scalable, and user-friendly** applications.",
-        "full": "Hi, I'm **Rza Mohammed**. I am currently pursuing a Bachelor of Computer Applications (BCA) at Amity University, Gwalior, with a strong interest in software development and technology research. My goal is to become a skilled Software Engineer capable of building efficient, scalable, and user-friendly applications.\n\nI actively participate in hackathons, business competitions, and technical events to challenge myself beyond academics and enhance my real-world problem-solving approach. During my journey, I have secured 1st position in the SISTec competition and achieved the 2nd Runner-Up position at IIITM, where I collaborated with a team to develop and pitch innovative solutions. These experiences improved my coding skills, teamwork, leadership, and presentation abilities.\n\nI am continuously learning new technologies, building projects, and exploring software development as a career path. I aim to join a growth-oriented environment where I can contribute meaningfully and evolve as a technology professional."
+        "full": "Hi, I'm **Rza Mohammed**. I am currently pursuing a Bachelor of Computer Applications (BCA) at Amity University, Gwalior, with a strong interest in software development and technology research. My goal is to become a skilled Software Engineer capable of building efficient, scalable, and user-friendly applications.\n\nI build full-stack web applications using **React**, **Next.js**, and **Node.js**, and leverage **AI-assisted development tools** to rapidly prototype and ship products. My workflow blends modern frontend frameworks with automation scripts and data-driven utilities.\n\nI actively participate in hackathons, business competitions, and technical events to challenge myself beyond academics and sharpen my real-world problem-solving approach. Key highlights from my journey include:\n\n• **1st Position** — SISTec Brand Combat, Sagar Exuberance 4.0, Bhopal\n• **2nd Prize** — Smart Campus Ideathon 2026, Amity University Gwalior\n• **2nd Runner-Up** — ARIC'25, ABV-IIITM Gwalior\n• **2nd Runner-Up** — IIITM Gwalior Hackathon & Innovation Pitch\n• **2nd Prize** — National Science Day 2026\n• **Technical Team Coordinator** — Amity Coding Club (ACC)\n\nThese experiences strengthened my coding skills, teamwork, leadership, and presentation abilities. I am continuously learning new technologies, building projects, and exploring software development as a career path. I aim to join a growth-oriented environment where I can contribute meaningfully and evolve as a technology professional."
     },
     "manifesto": [
         "SCALABLE SOFTWARE ARCHITECTURE",
@@ -15,59 +15,112 @@
     "projects": [
         {
             "id": "1",
-            "title": "Brand Combat Solution",
-            "category": "Competition Project (1st Position)",
-            "year": "2025",
-            "description": "Secured 1st Position with team in the Brand Combat competition at SISTec Business School – Sagar Exuberance 4.0, Bhopal. Developed and presented an innovative business technology solution demonstrating market strategy, software implementation, and pitch presentation.",
-            "image": "/projects/brand-combat.jpg",
+            "title": "AmityConnect",
+            "category": "Smart Campus Safety Platform — 2nd Prize, Amity Ideathon",
+            "year": "2026",
+            "description": "Hyper-local campus platform with emergency alerts, ride-sharing, and gamified peer service marketplace. Shipped from ideation to working prototype. Coordinated design, backend, and frontend across the team under time constraints. Features include real-time emergency notifications, integrated ride-sharing for safety, and a reputation system for peer services.",
+            "image": "/projects/amityconnect.png",
+            "demo": "https://amityconnect.vercel.app/",
             "stack": [
-                "Web Development",
-                "Market Analysis",
-                "Business Strategy",
-                "Presentation"
+                "TypeScript",
+                "React",
+                "Node.js"
             ]
         },
         {
             "id": "2",
-            "title": "IIITM Hackathon & Innovation Pitch",
-            "category": "Hackathon (2nd Runner-Up)",
+            "title": "Amity OD Portal",
+            "category": "Web App — Excel Automation",
             "year": "2025",
-            "description": "Achieved 2nd Runner-Up position at IIITM Gwalior. Collaborated in a high-intensity hackathon environment to engineer, build, and pitch an innovative technology product addressing complex user problems.",
-            "image": "/projects/iiitm-hackathon.jpg",
+            "description": "Automates On-Duty request generation for students attending college events. Reads Excel attendance data, cross-references it against the academic timetable to detect missed lectures/labs, then auto-generates faculty-ready emails and downloadable reports.",
+            "image": "/projects/od-automation.png",
+            "demo": "https://od-automation-two.vercel.app/",
             "stack": [
-                "Software Engineering",
-                "Data Structures",
-                "Problem Solving",
-                "Team Leadership"
+                "Next.js",
+                "React",
+                "Tailwind CSS",
+                "Excel Automation"
             ]
         },
         {
             "id": "3",
-            "title": "Arjuna 2.0 – Tech Summit Platform",
-            "category": "Technology Summit Certification",
+            "title": "Smart Link Hub",
+            "category": "Web App — Link-in-Bio Tool",
             "year": "2025",
-            "description": "Completed Arjuna 2.0 – Northeast Tech Summit 2025 certification from the National Institute of Technology (NIT), Agartala. Showcased event coordination and tech project management skills for large-scale tech initiatives.",
-            "image": "/projects/arjuna-summit.jpg",
+            "description": "Link-in-bio style hub for consolidating and sharing multiple links from a single page. Built with an AI-assisted, component-driven process.",
+            "image": "/projects/smart-link-hub.png",
+            "demo": "https://smart-link-hub-delta.vercel.app/",
             "stack": [
-                "Tech Management",
-                "Event Coordination",
-                "Web Technologies",
-                "Computer Science"
+                "React",
+                "TypeScript",
+                "Vite",
+                "shadcn-ui",
+                "Tailwind CSS"
             ]
         },
         {
             "id": "4",
-            "title": "Amity Coding Club Initiatives",
-            "category": "Community & Project Hub",
-            "year": "2025",
-            "description": "Technical Team Member at Amity Coding Club. Contributed to coding activities, workshops, collaborative session challenges, and campus project developments.",
-            "image": "/projects/amity-coding-club.png",
+            "title": "Smareet",
+            "category": "Web App — Smart Campus Platform",
+            "year": "2026",
+            "description": "Smart campus platform designed to enhance the student experience with streamlined campus services and community features.",
+            "image": "/projects/smareet.png",
+            "demo": "https://smareet.vercel.app/",
             "stack": [
-                "C",
-                "DSA",
-                "DBMS",
-                "Web Development"
+                "React",
+                "Next.js",
+                "Tailwind CSS"
             ]
+        }
+    ],
+    "achievements": [
+        {
+            "id": "1",
+            "title": "Brand Combat Solution",
+            "category": "Competition — 1st Position",
+            "year": "2025",
+            "description": "Secured 1st Position with team in the Brand Combat competition at SISTec Business School – Sagar Exuberance 4.0, Bhopal. Developed and presented an innovative business technology solution demonstrating market strategy, software implementation, and pitch presentation.",
+            "image": "/projects/brand-combat.jpg",
+            "linkedinEmbed": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7398556659784110080?collapsed=1",
+            "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7398556659784110080/"
+        },
+        {
+            "id": "2",
+            "title": "IIITM Hackathon & ARIC'25",
+            "category": "Hackathon — 2nd Runner-Up",
+            "year": "2025",
+            "description": "Secured 2nd Runner-Up (Third Position) in the Idea Demonstration category at ARIC'25 at ABV-IIITM Gwalior. Collaborated in a high-intensity hackathon environment to engineer, build, and pitch an innovative technology product.",
+            "image": "/projects/iiitm-hackathon.jpg",
+            "linkedinEmbed": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7395458255101243392?collapsed=1",
+            "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7395458255101243392/"
+        },
+        {
+            "id": "3",
+            "title": "Smart Campus Ideathon 2026",
+            "category": "Hackathon — 2nd Prize",
+            "year": "2026",
+            "description": "Won 2nd Prize at the Amity Ideathon. Built AmityConnect — a hyper-local campus safety platform with emergency alerts, ride-sharing, and gamified peer service marketplace. Shipped from ideation to working prototype under time constraints with Team Code Synergy.",
+            "image": "/projects/arjuna-summit.jpg",
+            "linkedinEmbed": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7427020580471660544?collapsed=1",
+            "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7427020580471660544/"
+        },
+        {
+            "id": "4",
+            "title": "National Science Day 2026",
+            "category": "Competition — 2nd Prize",
+            "year": "2026",
+            "description": "Secured 2nd Prize in Model Presentation at National Science Day 2026, organized at Amity University Madhya Pradesh, Gwalior. Presented a technology model demonstrating technical feasibility and real-world application.",
+            "image": "/projects/national-science-day.jpg",
+            "linkedinEmbed": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7433478385764462592?collapsed=1",
+            "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7433478385764462592/"
+        },
+        {
+            "id": "5",
+            "title": "Amity Coding Club Initiatives",
+            "category": "Technical Team Coordinator",
+            "year": "2025",
+            "description": "Technical Team Coordinator at Amity Coding Club (ACC). Led technical activities, workshops, collaborative coding challenges, and campus project developments.",
+            "image": "/projects/amity-coding-club.png"
         }
     ],
     "roadmap": [
@@ -84,7 +137,7 @@
         {
             "id": "02",
             "year": "2025",
-            "description": "Joined Amity University (AU) as Web Developer and active Technical Team Member in Amity Coding Club. Won 1st Position at SISTec Brand Combat, 2nd Runner-Up at IIITM, and NIT Agartala Arjuna 2.0 Certification.",
+            "description": "Joined Amity University (AU) as Web Developer and active Technical Team Coordinator in Amity Coding Club. Won 1st Position at SISTec Brand Combat, 2nd Runner-Up at IIITM, and NIT Agartala Arjuna 2.0 Certification.",
             "stack": [
                 "Web Development",
                 "Hackathons",
@@ -94,7 +147,18 @@
         },
         {
             "id": "03",
-            "year": "2025 - Present",
+            "year": "2026",
+            "description": "Built AmityConnect for the Smart Campus Ideathon 2026 (2nd Prize). Secured 2nd Runner-Up at ARIC'25, ABV-IIITM Gwalior and 2nd Prize at National Science Day 2026. Shipped real-world web projects and deepened full-stack expertise with AI-assisted tooling.",
+            "stack": [
+                "React / Next.js",
+                "AI-Assisted Dev",
+                "AmityConnect",
+                "ARIC'25"
+            ]
+        },
+        {
+            "id": "04",
+            "year": "2026 - Present",
             "description": "Building web projects, advancing software engineering expertise, participating in technical competitions, and expanding real-world problem-solving skillsets.",
             "stack": [
                 "React / Next.js",
@@ -103,7 +167,7 @@
             ]
         },
         {
-            "id": "04",
+            "id": "05",
             "year": "2027",
             "description": "Graduation from Amity University Gwalior with BCA degree, aiming for growth-oriented Software Engineer roles.",
             "stack": [

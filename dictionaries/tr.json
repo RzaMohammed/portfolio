@@ -17,6 +17,7 @@
     "scrollDown": "Kaydır",
     "contactMe": "İletişim",
     "exploreProjects": "Projelerim",
+    "downloadResume": "Özgeçmişi İndir",
     "readFullVersion": "Tamamını Oku",
     "frontendStack": "Frontend",
     "backendStack": "Backend",
@@ -36,6 +37,8 @@
     "technologies": "Teknolojiler",
     "liveDemo": "Canlı Demo",
     "sourceCode": "Kaynak Kodları",
+    "viewOnLinkedin": "LinkedIn Gönderisi",
+    "openOnLinkedin": "LinkedIn'de Görüntüle",
     "notFound": {
         "title": "Sayfa Bulunamadı",
         "description": "Aradığınız sayfa kaldırılmış, adı değiştirilmiş veya geçici olarak kullanım dışı kalmış olabilir.",

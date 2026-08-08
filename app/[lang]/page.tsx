@@ -5,6 +5,7 @@ import About from "@/components/sections/about";
 import Stack from "@/components/sections/stack";
 import Projects from "@/components/sections/projects";
 import Roadmap from "@/components/sections/roadmap";
+import Achievements from "@/components/sections/achievements";
 import Contact from "@/components/sections/contact";
 
 export default function Home() {
@@ -30,11 +31,17 @@ export default function Home() {
 
           <ManifestoFlow reverse />
 
+          <section id="achievements">
+            <Achievements />
+          </section>
+
+          <ManifestoFlow />
+
           <section id="projects">
             <Projects />
           </section>
 
-          <ManifestoFlow />
+          <ManifestoFlow reverse />
 
           <section id="roadmap">
             <Roadmap />

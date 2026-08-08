@@ -43,8 +43,8 @@ export default async function LangLayout({
   }
 
   const [dictionary, contents, shared] = await Promise.all([
-    getDictionary(lang as any),
-    getContents(lang as any),
+    getDictionary(lang),
+    getContents(lang),
     getSharedData(),
   ]);
 

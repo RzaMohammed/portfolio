@@ -21,44 +21,57 @@
     "stack": {
         "frontend": [
             {
-                "name": "Web Development",
-                "icon": "/stack/html5.svg",
+                "name": "JavaScript",
+                "icon": "/stack/javascript.svg",
+                "featured": true
+            },
+            {
+                "name": "TypeScript",
+                "icon": "/stack/typescript.svg",
+                "featured": true
+            },
+            {
+                "name": "React",
+                "icon": "/stack/react.svg",
+                "featured": true
+            },
+            {
+                "name": "Next.js",
+                "icon": "/stack/nextjs.svg",
                 "featured": true
             },
             {
                 "name": "HTML5",
-                "icon": "/stack/html5.svg",
-                "featured": true
+                "icon": "/stack/html5.svg"
             },
             {
                 "name": "CSS3",
-                "icon": "/stack/css3.svg",
-                "featured": true
+                "icon": "/stack/css3.svg"
             },
             {
-                "name": "JavaScript",
-                "icon": "/stack/javascript.svg"
-            },
-            {
-                "name": "React",
-                "icon": "/stack/react.svg"
+                "name": "Tailwind CSS",
+                "icon": "/stack/tailwindcss.svg"
             }
         ],
         "backend": [
             {
-                "name": "C Programming Language",
+                "name": "Node.js",
+                "icon": "/stack/nodejs.svg",
+                "featured": true
+            },
+            {
+                "name": "C Programming",
                 "icon": "/stack/csharp.svg",
                 "featured": true
             },
             {
-                "name": "Data Structures and Algorithms",
-                "icon": "/stack/python.svg",
-                "featured": true
+                "name": "Data Structures & Algorithms",
+                "icon": "/stack/python.svg"
             }
         ],
         "database": [
             {
-                "name": "Database Management Systems (DBMS)",
+                "name": "DBMS",
                 "icon": "/stack/postgresql.svg",
                 "featured": true
             },
@@ -69,19 +82,18 @@
         ],
         "tools": [
             {
-                "name": "Ceramic Design",
-                "icon": "/stack/framermotion.svg",
+                "name": "Git & GitHub",
+                "icon": "/stack/git.svg",
                 "featured": true
             },
             {
-                "name": "Business Ethics",
-                "icon": "/stack/git.svg"
+                "name": "AI-assisted Rapid Prototyping",
+                "icon": "/stack/framermotion.svg"
             },
             {
-                "name": "Git",
-                "icon": "/stack/git.svg"
+                "name": "Excel Data Automation",
+                "icon": "/stack/framermotion.svg"
             }
         ]
     }
 }
-

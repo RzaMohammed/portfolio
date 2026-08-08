@@ -5,18 +5,21 @@
         "stack": "مہارتیں",
         "projects": "پروجیکٹس",
         "roadmap": "سفر نامہ",
-        "contact": "رابطہ"
+        "contact": "رابطہ",
+        "achievements": "کامیابیاں"
     },
     "title": {
         "about": "تعارف",
         "stack": "ٹیکنالوجی اسٹیک",
         "projects": "پروجیکٹس",
         "roadmap": "تعلیمی و عملی سفر",
-        "contact": "رابطہ کریں"
+        "contact": "رابطہ کریں",
+        "achievements": "کامیابیاں"
     },
     "scrollDown": "اسکرول کریں",
     "contactMe": "رابطہ کریں",
     "exploreProjects": "پروجیکٹس دیکھیں",
+    "downloadResume": "سی وی ڈاؤن لوڈ کریں",
     "readFullVersion": "مکمل تعارف پڑھیں",
     "frontendStack": "فرنٹ اینڈ ٹیکنالوجیز",
     "backendStack": "بیک اینڈ ٹیکنالوجیز",
@@ -36,6 +39,8 @@
     "technologies": "ٹیکنالوجیز",
     "liveDemo": "لائیو ڈیمو",
     "sourceCode": "سورس کوڈ",
+    "viewOnLinkedin": "لنکڈ ان پوسٹ",
+    "openOnLinkedin": "لنکڈ ان پر دیکھیں",
     "notFound": {
         "title": "صفحہ نہیں ملا",
         "description": "جس صفحے کی آپ تلاش کر رہے ہیں وہ ختم کر دیا گیا ہے یا عارضی طور پر دستیاب نہیں ہے۔",

@@ -19,7 +19,7 @@ export default function Contact() {
                     <div className="flex flex-col gap-4 mb-16 lg:mb-32">
                         <BlurReveal>
                             <span className="title-counter">
-                                [005]
+                                [006]
                             </span>
                         </BlurReveal>
 
