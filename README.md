@@ -14,7 +14,7 @@
   <br />
 
   <p>
-     A personal portfolio website inspired by the design quality of Awwwards.
+     A personal portfolio website inspired by the design quality of Awwards.
   </p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
